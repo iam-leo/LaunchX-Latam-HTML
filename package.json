@@ -1,0 +1,22 @@
+{
+  "name": "02-html-launchx",
+  "version": "1.0.0",
+  "description": "práctica html launchx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-leo/LaunchX-Latam-HTML.git"
+  },
+  "author": "Leo Ss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iam-leo/LaunchX-Latam-HTML/issues"
+  },
+  "homepage": "https://github.com/iam-leo/LaunchX-Latam-HTML#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
